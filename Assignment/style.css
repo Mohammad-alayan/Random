@@ -1,0 +1,53 @@
+span{
+    display: block;
+    margin: 20px;
+    padding: 10px;
+}
+.large{
+font-size: 40px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.largex{
+    font-size: 55px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+.xsmall{
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+.background1{
+    background-color: black;
+    color: white;
+}
+.background2{
+    background-color: rgb(163, 0, 0);
+    color: rgba(0, 242, 238, 0.848);
+}
+.background3{
+    background-color:black;
+    color:antiquewhite
+}
+.background4{
+    background-color: rgb(43, 110, 155);
+    color: rgba(105, 111, 75, 0.848);
+}
+.background5{
+    background-color: rgb(50, 128, 103);
+    color: rgb(13, 108, 182);
+}
+.small{
+    font-size: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.medium{
+    font-size: 25px;
+    font-family: fantasy;
+}
+.rotateup{
+    transform:rotate(2deg);
+}
+.rotatedown{
+    transform:rotate(5deg);
+}
